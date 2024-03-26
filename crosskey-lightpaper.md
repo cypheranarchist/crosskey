@@ -1,9 +1,12 @@
-crosskey presale lightpaper
+# crosskey presale lightpaper
+## @cypheranarchist / @chucky_diamond_hands .
 
-# tl;dr
+---
+
+## tl;dr
 This isn't a science project, it's just a telegram wallet project. This doc will outline the functionality we intend to include in the wallet, the team, and the structure of the private sale opportunity.
 
-# functionality
+## functionality
 In short, this is a telegram bot-based wallet, where you control your private keys, aimed with a featureset aimed towards degen-style trading. Key networks supported are
  - ETH
  - BNB
