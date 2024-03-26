@@ -6,6 +6,11 @@
 ## tl;dr
 This isn't a science project, it's just a telegram wallet project. This doc will outline the functionality we intend to include in the wallet, the team, and the structure of the private sale opportunity.
 
+## toc
+ - functionality & roadmap
+ - offering
+ - team
+
 ## functionality
 In short, this is a telegram bot-based wallet, where you control your private keys, aimed with a featureset aimed towards degen-style trading. Key networks supported are
  - ETH
@@ -29,6 +34,16 @@ It also aims to differentiate by allowing dev focused macro actions like
  - Offering simplified and streamlined multi-transfers
  - "Token Scattering."
 
+# offering
+
+# team
+ - CypherAnarchist
+ - Chucky
+ - Schlomo
+ - Visible Magic
+
+---
+# notes, ignore this section, just using it to build the lp from.
  
 6)automatic scattering of tokens for wallets that reach x% of supply.  In example.  I accidently ape 10% of the supply of some random degen on sol.  I need to tokens to be quickly scattered to 5 wallets 2% each
 
